@@ -2,8 +2,10 @@
 
 ## Comandos usados en la Terminal
 - pwd
-< Print Working Directory
+> Print Working Directory
+```
 `pwd home/steinsgate25`
+```
 - cd
 - mkdir
 - ls
