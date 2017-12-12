@@ -1,7 +1,7 @@
 # GUIA DE COMANDOS
 
 ## Comandos usados en la Terminal
-- pwd
+### - pwd
 > Print Working Directory
 ```
 `pwd home/steinsgate25`
