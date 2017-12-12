@@ -51,9 +51,70 @@
 ```
 `exit`
 ```
-###- sudo
+### - sudo
 > Otorga permisos de administrador al ususario
 ```
 `sudo apt-get update`
 ```
 ## Comandos usados en GIT
+
+### - clone
+> git clone
+```
+`clona el repositorio`
+```
+### - branch
+> git branch develop
+```
+`crea una nueva rama`
+```
+### - checkout
+> git checkout develop
+```
+`cambiamos de rama`
+```
+### - checkout -b
+> git checkout -b add-git-stages
+```
+`crea una nueva rama y nos lleva a su posicion`
+```
+### - status
+> git status
+```
+`muestra el estado del git`
+```
+### - add
+> git add README.md
+```
+`pasar de modified a stage`
+```
+### - commit
+> git commit -v
+```
+`abre el editor y colocamos el commit`
+```
+### - commit -m
+> git commit -m
+```
+`se coloca el mensaje sin abrir el editor`
+```
+### - push
+> git push origin add-git-stages
+```
+`sube el repositorio al servidor`
+```
+### - pull
+> git pull origin develop
+```
+`descargas develop desde el servidor`
+```
+### - branch -d
+> git branch -d add-git-stages
+```
+`se borra la rama`
+```
+### - remote add
+> git remote add origin “url del repo”
+```
+`agregamos el origen`
+```
